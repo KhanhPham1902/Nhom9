@@ -11,7 +11,7 @@
 
 ## Mã nguồn phát triển
 
-- Sau khi nghiên cứu và tham khảo từ mã nguồn gốc, nhóm đã phát triển mã nguồn thành 1 ứng dụng với chức năng chính là nhận diện và tách chữ từ ảnh.
+- Sau khi nghiên cứu và tham khảo từ mã nguồn gốc, nhóm đã phát triển mã nguồn thành 1 ứng dụng với các chức năng: nhận diện và tách chữ từ ảnh, chuyển văn bản phát hiện được sang lời nói và dịch văn bản sang tiếng việt và tiếng anh.
 
 - Mã nguồn sau khi phát triển được lưu trong file [convert.py](https://github.com/KhanhPham1902/Nhom9/blob/master/code/convert.py) của project.
 
